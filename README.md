@@ -1,0 +1,3 @@
+A general logsheet for lab samples. The entire history of a sample can be recorded and tracked using this sheet.
+
+For best results: Print on cleanroom paper. Apply 3-hole punch. Always fill out the "Sample Number" and "Page" fields. Return to sample log binder promptly. More information is better than less information: use space liberally and print more sheets rather than save space at the expense of info.
